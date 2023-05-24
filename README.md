@@ -1,5 +1,9 @@
 # Curriculum Vitae Online
 
+![Preview-Screens][https://github.com/cv/assets/img/preview-screens-cv-figma-png]
+
+## Descrição
+
 Sejam todos bem vindos ao projeto de Curriculum Vitae Online oferecidos pela Digital Innovation One.
 
 O projeto tem como objetivo montar uma página web que será a replica de um CV Online, utilizando conceitos de HTML e Github Pages. Ao  fim teremos nosso currículo pronto e disponível de forma estática.
@@ -155,3 +159,6 @@ Sobre html: https://developer.mozilla.org/pt-BR/docs/Web/HTML
 
 Emojis: https://www.w3schools.com/charsets/ref_emoji.asp
 
+
+
+[def]: https://git
