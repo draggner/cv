@@ -1,6 +1,6 @@
 # Curriculum Vitae Online
 
-![Preview-Screens][https://github.com/cv/assets/img/preview-screens-cv-figma-png]
+![Preview-Screens](https://github.com/cv/assets/img/preview-screens-cv-figma-png)
 
 ## Descrição
 
